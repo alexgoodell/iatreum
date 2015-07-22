@@ -1,3 +1,26 @@
+.break{
+display: block;
+clear: both;
+page-break-after: always;
+
+}
+
+.page-breaker {
+display: block;
+page-break-after: always;
+
+}
+
+.print .byline {
+    padding: 5px 0px;
+}
+
+.page-content.print {
+  padding: 0px;
+}
+
+
+
 /**
  * Reset some basic elements
  */
@@ -23,7 +46,15 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
+body .print {
+    font-family: 'Playfair Display', Arial;
+    font-size: 10pt;
+}
 
+.print strong {
+    font-weight: 800;
+    color: rgb(22, 22, 144);
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm

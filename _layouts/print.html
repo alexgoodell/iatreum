@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    <div class="page-content print">
+      <div class="wrapper">
+          <h1 class="post-title">{{ page.title }}</h1>
+          <article class="post-content">
+           {% if page.author %} <p class="byline"> by {{ page.author }}{% endif %} | 
+           <a href="http://iatreum.com{{page.url | regexreplace: "print", "medicine" | regexreplace: "-medicine", "" }}"> View online </a> </p>
+
+            {{ content }}
+          </article>
+      </div>
+    </div>
+
+  </body>
+
+</html>

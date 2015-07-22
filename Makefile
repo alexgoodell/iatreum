@@ -1,6 +1,8 @@
-
-
 SHELL = /bin/bash
+
+
+pdf:
+	ruby pdf-convert.rb
 
 deploy:
 	jekyll build

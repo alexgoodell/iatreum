@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: print
 title:  "Introduction to COPD"
 date:   2015-07-21 23:54:34
 comments: true
-categories: medicine
+categories: print
 author: Alex Goodell
 ---
 
@@ -19,13 +19,18 @@ There are four major prototypes of obstructive lung disease: chronic bronchitis,
 * Chronic bronchitis initially involves the large airways then the **small airways**, whereas emphysema affects the groupings of aveoli at the end of the airway, called the **acinus**. 
 * Lastly, there is a large overlap between chronic bronchitis and emphysema. Although it is possible for these diseases to arise separately, they often occur together (especially for tobacco cigarette smokers), explaining why these are lumped together in this COPD framework.
 
+<div class="page-breaker"></div>
 
 ##Histology review
 
 Before we jump into the pathologies of these conditions, I think it is worthwhile to review how air gets to the aveoli. Borrowing from Simon’s 4.1.1, there is a long pathway. 
 
+<div class="page-breaker"></div>
+
 ###Conducting zone
 We begin in trachea, which breaks into the bronchus, then lobar bronchus, and finally the segmental bronchus. Note that each of these steps has particular histological findings that allow it to be classified as such. Now take a look at Figure 2 below, and find the segmental bronchus at the top left. This is then broken into the smaller bronchi then into the bronchioles. Bronchioles then break into lobules, which contain terminal bronchioles. From the trachea to the terminal bronchioles is considered the conducting zone, because its job is to conduct air from the mouth downward – it does not exchange any gas, meaning it is considered anatomic dead space.
+
+<div class="page-breaker"></div>
 
 ###Respiratory zone
 Once we are past the level of the terminal bronchiole, we have reached the level of the **acinus**, or the grape-like cluster of alveoli at the end of the airway tract. This is where all the gas-exchange action occurs, and so is referred to as the *respiratory zone*. 
