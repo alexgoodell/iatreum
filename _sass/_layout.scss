@@ -1,8 +1,15 @@
 /**
  * Site header
  */
+
+.site-header-ribbon {
+    background-image: linear-gradient(to right, #00ffe1 31%, #192a8a);
+    height: 5px;
+    top: 0px;
+}
+
 .site-header {
-    border-top: 5px solid $grey-color-dark;
+    background-color: $grey-color-light
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
