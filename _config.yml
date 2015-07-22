@@ -3,7 +3,7 @@ title: Iatreum
 email: alexgoodell@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Iatreum is greek for the office of the physician. 
-  This blog, maintained by Alex Goodell explores topics in medicine. 
+  This blog explores topics in medicine. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://iatreum.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
