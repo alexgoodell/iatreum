@@ -9,7 +9,7 @@ author: Alex Goodell
 
 Starting with the basics, I’ve made a map of the major pathologies outlined in Robbins and First Aid (obviously these are not all mutually exclusive, or fully complete). 
 
-![Map](/assets/copd_map.png)
+<img src="/assets/copd_map.png">
 
 Take a look at the group of diseases called diffuse pulmonary disease. Under this category, we find two important types of lung disease: obstructive and restrictive lung disease. **Obstructive** lung disease is caused by a narrowing or loss of elasticity in the airways, while **restrictive** is caused by a decreased ability to expand the lungs. In obstructive disease, the vital capacity (FVC) is generally normal or slightly lower, while the expiratory volume over one second (FEV1) is greatly decreased. The classic measure used for measurement of obstructive disease is FEV1/FVC, which will be markedly decreased. For example, normally you exhale about 4L of air in one second, while your lungs can hold about 5L, meaning your FEV1/FVC is about 80%. In an obstructive disease, you might decreased your FEV1 to 3L, producing a FEV1/FVC of 60%. By contrast, in restrictive disease, the FEV1/FVC should be nearly normal. 
 
@@ -30,14 +30,15 @@ We begin in trachea, which breaks into the bronchus, then lobar bronchus, and fi
 ###Respiratory zone
 Once we are past the level of the terminal bronchiole, we have reached the level of the **acinus**, or the grape-like cluster of alveoli at the end of the airway tract. This is where all the gas-exchange action occurs, and so is referred to as the *respiratory zone*. 
 
+<img src="/assets/resp_tree.png" class="medium">
 
-![Map](/assets/resp_tree.png)
 
 *Figure 2. Schematic showing brances of trachea to acinus.*
 
 Now that we are into the level of the acinius, we can peal away the epithelium, and take a look at the structures lying within the acinus. In Figure 3, we see two acini, with each acini having a *respiratory bronchiole* feeding it fresh air (green arrows). These acini each have many aveloi pouching out from them, connected by a space of open air called the alveolar duct. 
 
-![Map](/assets/acc.png)
+<img src="/assets/acc.png" class="medium">
+
 
 *Figure 3. Schematic of two acini of aveloi fed by separate 
 respiratory bronchioles (green arrows).*
