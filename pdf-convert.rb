@@ -4,11 +4,13 @@ require 'pdfkit'
 Dir.foreach('_posts') do |item|
 	if ( item =~ /(.*)print(.*)/ )
 		item = item[/(.*)(?=\.markdown)/]
-		item_non_print = item.gsub("-print","")
+		item_non_print = item.gsub("","")
 		item = item.gsub(/-(?=.*?-)/, "/")
 		puts "Converting " + item_non_print + "..."
-		kit = PDFKit.new('http://127.0.0.1:4000/print/'+ item +'.html')
-		file = kit.to_file('pdfs/'+item_non_print+".pdf")
+		filename = 'http://127.0.0.1:4000/print/'+ item +'.html'
+		puts "Getting " + filename
+		kit = PDFKit.new(filename)
+		file = kit.to_file('pdfs/'+item_non_print.gsub("-print","")+".pdf")
 		puts "Converted"
 	end
   # do work on real items

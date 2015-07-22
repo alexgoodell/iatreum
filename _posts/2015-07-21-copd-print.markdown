@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: print
 title:  "Introduction to COPD"
 date:   2015-07-21 23:54:34
 comments: true
