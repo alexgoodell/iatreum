@@ -1,11 +1,30 @@
 
+.caption {
+    color: rgb(22, 22, 144);
+    font-style: italic;
+    display: block;
+    text-align: center;
+    padding: 10px 0 0 0;
+    font-family: Helvetica, Arial;
+}
+
+.print .caption strong {
+    font-family: Helvetica, Arial;
+}
+
 .small {
     max-width: 300px;
+    @include media-query($on-palm) {
+        width: 100%
+    }
 }
 
 
 .medium {
     max-width: 500px;
+    @include media-query($on-palm) {
+        width: 100%
+    }
 }
 
 .break{
@@ -66,10 +85,13 @@ body .print {
     font-size: 10pt;
 }
 
-.print strong {
-    font-family: 'Iowan Old Style', Arial;
+strong {
     font-weight: 900;
     color: rgb(22, 22, 144);
+}
+
+.print strong {
+    font-family: 'Iowan Old Style', Arial;
 }
 
 /**

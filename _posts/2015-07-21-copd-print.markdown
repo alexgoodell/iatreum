@@ -1,15 +1,16 @@
 ---
 layout: print
-title:  "Introduction to COPD"
+title:  "How does COPD really work?"
 date:   2015-07-21 23:54:34
 comments: true
 categories: print
 author: Alex Goodell
 ---
 
-Starting with the basics, I’ve made a map of the major pathologies outlined in Robbins and First Aid (obviously these are not all mutually exclusive, or fully complete). 
+Where does COPD fit in the mix of respiratory diseases? I’ve made a map of the major pathologies outlined in Robbins and First Aid (obviously these are not all mutually exclusive, or fully complete). 
 
-<img src="/assets/copd_map.png">
+{% include image.html url="/assets/copd_map.png" description="Map of respiratory disease" number=1 %}
+
 
 Take a look at the group of diseases called diffuse pulmonary disease. Under this category, we find two important types of lung disease: obstructive and restrictive lung disease. **Obstructive** lung disease is caused by a narrowing or loss of elasticity in the airways, while **restrictive** is caused by a decreased ability to expand the lungs. In obstructive disease, the vital capacity (FVC) is generally normal or slightly lower, while the expiratory volume over one second (FEV1) is greatly decreased. The classic measure used for measurement of obstructive disease is FEV1/FVC, which will be markedly decreased. For example, normally you exhale about 4L of air in one second, while your lungs can hold about 5L, meaning your FEV1/FVC is about 80%. In an obstructive disease, you might decreased your FEV1 to 3L, producing a FEV1/FVC of 60%. By contrast, in restrictive disease, the FEV1/FVC should be nearly normal. 
 
@@ -30,15 +31,64 @@ We begin in trachea, which breaks into the bronchus, then lobar bronchus, and fi
 ###Respiratory zone
 Once we are past the level of the terminal bronchiole, we have reached the level of the **acinus**, or the grape-like cluster of alveoli at the end of the airway tract. This is where all the gas-exchange action occurs, and so is referred to as the *respiratory zone*. 
 
-<img src="/assets/resp_tree.png" class="medium">
-
-
-*Figure 2. Schematic showing brances of trachea to acinus.*
+{% include image.html url="/assets/resp_tree.png" size="medium" description="Schematic showing brances of trachea to acinus." number=2 %}
 
 Now that we are into the level of the acinius, we can peal away the epithelium, and take a look at the structures lying within the acinus. In Figure 3, we see two acini, with each acini having a *respiratory bronchiole* feeding it fresh air (green arrows). These acini each have many aveloi pouching out from them, connected by a space of open air called the alveolar duct. 
 
-<img src="/assets/acc.png" class="medium">
+{% include image.html url="/assets/acc.png" size="medium" description="Schematic of two acini of aveloi fed by separate respiratory bronchioles (green arrows)." number=3 %}
 
 
-*Figure 3. Schematic of two acini of aveloi fed by separate 
-respiratory bronchioles (green arrows).*
+##Emphysema
+
+Emphysema is characterized by abnormal **permanent enlargement of the air spaces** distal to the terminal bronchioles, accompanied by the **destruction of their walls without significant fibrosis**.
+
+Essentially, our body is damaged by cigarette smoke and thinks we have a wound in our acinus. It starts destroying old tissue to replace it with a scar. Unfortunately, because of a constant barrage of toxic molecules, a scar never forms, and we are left with an incomplete wound healing process, leaving a destroyed acnius. 
+
+Let’s look a little more closely. Because our lungs must constantly stretch to deal with incoming air pressure, the alveolar walls contain a lot of **elastin**, a protein that helps our tissue stretch and return to its original form. During emphysema, toxic substances such as cigarette smoke initiate an inflammatory response within the acinus.   Neutrophils, macrophages, and lymphocytes arrive and begin degrading tissue. They begin releasing enzymes to break down the tissue and extra-cellular matrix. In particular, they release **elastases**, enzymes that break down the elastin found in the tissue. Normally this inflammation would be self-limited, but because of the constant toxin exposure, the inflammation continues, and healing is not able to occur. This leads to a **destruction of the aveolar wall**, a **loss of elasticity**, and **enlargement of the air spaces**.
+
+We have a protein that inhibits these elastases termed **α-1 anti-trypsin**. Normally, in a person without significant toxic exposure, α-1 anti-trypsin balances the elastases to ensure they limit their damage to the acini. Individuals deficient in α-1 anti-trypsin, however, are unable to limit this damage. This rare deficiency causes emphysema in young, non-smoking individuals. 
+
+Histologically, there are two primary forms of clinically significant emphysema based on where in the acninus this degradation happens. In **centriacinar emphysema**, the proximal portion of the acinus is affected, while the distal portions are unaffected. This makes sense – incoming smoke deals its damage most directly to this area at the enterance to the acinus. This is by far the most common form, and occurs mostly in individuals with a history of smoking. It commonly appears in the upper fields of the lungs, where smoke goes when it enters the lungs (Fig 4).
+
+In **panacinar emphysema**, the entire acinus is involved. It is more commonly found in indivuduals with α-1 anti-trypsin deficiency and commonly involves the lower lung fields (Fig 4). 
+ 
+<img src="/assets/acc2.png" class="medium">
+_Figure 4. Major patterns of emphysema. A, Diagram of normal structure of the acinus. B, Centriacinar emphysema with dilation that initially affects the respiratory bronchioles. C, Panacinar emphysema. (Source: Robbins)_
+
+This loss of the aveolar wall __impairs gas exchange__ One method for testing this impairment is involves testing the amount of carbon monoxide in the inhaled air vs exhaled air. Because RBCs have such a high affinity for CO, exhaled CO should be markedly less than inhaled CO. In individuals with emphysema, they will display a decreased diffusing capacity of the lung for carbon monoxide, or __DCLO__. 
+
+In addition, the loss of elasticity means that the walls of the acini are floppy.  During exhalation, __parts of the acini or respiratory bronchiole can collapse__, trapping CO2-laden air within the acini. This is why emphysema is considered an obstructive condition, and is the _core problem_ with emphysema. 
+
+Because of these collapsing airways and subsequent trapping of air, individuals have constant  over-inflation of their lungs, leading to an increase AP diameter, or “barrel chest,” and hyper-resonant lung sounds. 
+
+In addition, in order to increase the air pressure within the lungs during expiration and prevent this “floppy” blockage, patients with emphysema take long exhales through pursed lips. Mixed with a pinkness from use of accessory muscles, these people could be described as “pink puffers.” 
+
+Other symptoms include weight loss (due to energy expended breathing) and the potential complication of singular right-sided heart failure (“cor pulmonale”). 
+
+##Chronic bronchitis
+
+Chronic bronchitis is common among cigarette smokers and urban dwellers in smog-ridden cities. The diagnosis of chronic bronchitis is made on clinical grounds: it is defined by the __presence of a persistent productive cough for at least 3 consecutive months in at least 2 consecutive years. __
+
+Let’s review a bit of histology here. The upper airways of the respiratory system are covered with __pseudostratified ciliated epithelium__ with goblet cells. Underlying the epithelium is a basement membrane, followed by a lamina propria, which contains glandular structures. There are two important types of glands in the respiratory tract: serous glands (shown below as pink) and mucous glands (shown below as white). __Mucous glands__ are very important because they are responsible for the majority (along with goblet cells) of mucous in the respiratory tract, which is responsible for __filtering__ incoming air. 
+
+<img src="/assets/glands.png">
+_Figure 5. Schematic of thickness of trachea wall_
+
+Since we understand how the body responds to insult, what do you think happens when respiratory epithelium undergoes constant injury by cigarette smoke? Well, it tries to produce more mucous. It does so by __hypertrophy of the mucous glands__. One way to measure the amount of glandular hypertrophy is the Reid index, which measure the thickness of gland layer compared to the total thickness of bronchial wall (Fig 5). Patients with chronic bronchitis often have a Reid index of >50%, while normally we would find an index of ~40%.
+
+Since we are producing all of this mucous (one source said “buckets” of mucous), where does it go? Well – it can only go in two directions. First, it goes up towards the mouth as a __productive cough__, or it goes _down_ and creates __plugs of mucous__ that get lodged in the airways. So, while the mucous is generated in the large airways, the disease can progress to a small-airway disease as mucous plugging continues. Additionally, it is usually associated with emphysema in chronic smokers. 
+
+The additional problem with chronic bronchitis is that as mucous begins to plug the airways, it leaves areas of obstruction that are prone to infection. These infections cause bouts of sickness referred to as __acute exacerbations of COPD (AECOPD).__
+
+##References
+
+* Robbins Pathologic Basis of Disease, 9e
+* Adnan Syed
+* Simon Chu
+* Pathoma Fundementals of Pathology
+* Acute exacerbation of COPD – Wikipedia
+
+
+
+
+
