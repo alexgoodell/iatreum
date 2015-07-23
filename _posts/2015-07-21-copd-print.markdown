@@ -35,8 +35,7 @@ Once we are past the level of the terminal bronchiole, we have reached the level
 
 Now that we are into the level of the acinius, we can peal away the epithelium, and take a look at the structures lying within the acinus. In Figure 3, we see two acini, with each acini having a *respiratory bronchiole* feeding it fresh air (green arrows). These acini each have many aveloi pouching out from them, connected by a space of open air called the alveolar duct. 
 
-{% include image.html url="/assets/acc.png" size="medium" description="Schematic of two acini of aveloi fed by separate respiratory bronchioles (green arrows)." number=3 %}
-
+{% include image.html url="/assets/acc.png" size="medium" description="Schematic of two acini of aveloi fed by separate respiratory bronchioles, green arrows." number=3 %}
 
 ##Emphysema
 
@@ -51,9 +50,8 @@ We have a protein that inhibits these elastases termed **α-1 anti-trypsin**. No
 Histologically, there are two primary forms of clinically significant emphysema based on where in the acninus this degradation happens. In **centriacinar emphysema**, the proximal portion of the acinus is affected, while the distal portions are unaffected. This makes sense – incoming smoke deals its damage most directly to this area at the enterance to the acinus. This is by far the most common form, and occurs mostly in individuals with a history of smoking. It commonly appears in the upper fields of the lungs, where smoke goes when it enters the lungs (Fig 4).
 
 In **panacinar emphysema**, the entire acinus is involved. It is more commonly found in indivuduals with α-1 anti-trypsin deficiency and commonly involves the lower lung fields (Fig 4). 
- 
-<img src="/assets/acc2.png" class="medium">
-_Figure 4. Major patterns of emphysema. A, Diagram of normal structure of the acinus. B, Centriacinar emphysema with dilation that initially affects the respiratory bronchioles. C, Panacinar emphysema. (Source: Robbins)_
+
+{% include image.html url="/assets/acc2.png" size="medium" description="Figure 4. Major patterns of emphysema. A, Diagram of normal structure of the acinus. B, Centriacinar emphysema with dilation that initially affects the respiratory bronchioles. C, Panacinar emphysema. (Source: Robbins)" number=4 %}
 
 This loss of the aveolar wall __impairs gas exchange__ One method for testing this impairment is involves testing the amount of carbon monoxide in the inhaled air vs exhaled air. Because RBCs have such a high affinity for CO, exhaled CO should be markedly less than inhaled CO. In individuals with emphysema, they will display a decreased diffusing capacity of the lung for carbon monoxide, or __DCLO__. 
 
@@ -71,8 +69,7 @@ Chronic bronchitis is common among cigarette smokers and urban dwellers in smog-
 
 Let’s review a bit of histology here. The upper airways of the respiratory system are covered with __pseudostratified ciliated epithelium__ with goblet cells. Underlying the epithelium is a basement membrane, followed by a lamina propria, which contains glandular structures. There are two important types of glands in the respiratory tract: serous glands (shown below as pink) and mucous glands (shown below as white). __Mucous glands__ are very important because they are responsible for the majority (along with goblet cells) of mucous in the respiratory tract, which is responsible for __filtering__ incoming air. 
 
-<img src="/assets/glands.png">
-_Figure 5. Schematic of thickness of trachea wall_
+{% include image.html url="/assets/glands.png" size="medium" description="Figure 5. Schematic of thickness of trachea wall" number=5 %}
 
 Since we understand how the body responds to insult, what do you think happens when respiratory epithelium undergoes constant injury by cigarette smoke? Well, it tries to produce more mucous. It does so by __hypertrophy of the mucous glands__. One way to measure the amount of glandular hypertrophy is the Reid index, which measure the thickness of gland layer compared to the total thickness of bronchial wall (Fig 5). Patients with chronic bronchitis often have a Reid index of >50%, while normally we would find an index of ~40%.
 
@@ -87,8 +84,3 @@ The additional problem with chronic bronchitis is that as mucous begins to plug 
 * Simon Chu
 * Pathoma Fundementals of Pathology
 * Acute exacerbation of COPD – Wikipedia
-
-
-
-
-
