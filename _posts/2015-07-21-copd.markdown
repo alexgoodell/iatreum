@@ -7,7 +7,7 @@ categories: medicine
 author: Alex Goodell
 ---
 
-Where does COPD fit in the mix of respiratory diseases? I’ve made a map of the major pathologies outlined in Robbins and First Aid (obviously these are not all mutually exclusive, or fully complete). 
+Where does COPD fit in the mix of respiratory diseases? I’ve made a map of the major pathologies outlined in Robbins and First Aid (obviously these are not all mutually exclusive, or fully complete):
 
 {% include image.html url="/assets/copd_map.png" description="Map of respiratory disease" number=1 %}
 

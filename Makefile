@@ -1,6 +1,5 @@
 SHELL = /bin/bash
 
-
 pdf:
 	echo "Remeber, need to run server"
 	ruby pdf-convert.rb
