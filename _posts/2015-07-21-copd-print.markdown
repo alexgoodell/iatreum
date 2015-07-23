@@ -84,3 +84,8 @@ The additional problem with chronic bronchitis is that as mucous begins to plug 
 * Simon Chu
 * Pathoma Fundementals of Pathology
 * Acute exacerbation of COPD – Wikipedia
+
+
+
+
+

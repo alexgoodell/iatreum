@@ -228,10 +228,13 @@
     }
 
     h3 {
-        font-size: 20px;
+        font-size: 18px;
+        font-family: Helvetica, Arial;
+        text-transform: uppercase;
+        color: #945450;
 
         @include media-query($on-laptop) {
-            font-size: 22px;
+            font-size: 16px;
         }
     }
 
