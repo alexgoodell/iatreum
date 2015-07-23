@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Iatreum is greek for *the office of the physician*. This blog, maintained by Alex Goodell, explores topics in medicine. 
+Iatreum is ancient greek for [the office of the physician](https://books.google.com/books?id=VmEPAAAAYAAJ&dq=iatrion&pg=PA565#v=onepage&q=iatrion&f=false). This blog, maintained by [Alex Goodell](http://alexgoodell.com), explores topics in medicine. 
