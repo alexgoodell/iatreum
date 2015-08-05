@@ -38,7 +38,7 @@ PTH receptors are found primarily on __osteoblasts__, a bit on osteocytes, and n
 
 2. With continued use, PTH __promotes bone resorption__. Remember: it doesn’t act directly on osteoclasts. Instead, it binds to osteoblasts and induces them to:
 
-    * Secrete macrophage __colony stimulating factor __(M-CSF). Since osteoclasts are in the macrophage/monocyte lineage, M-CSF can exert local (paracrine) effects and trigger local proliferation of osteoclasts. This increase in osteoclasts will promote bone resorption (breaking down of bone and release of its minerals). This will increase calcium levels. 
+    * Secrete macrophage __colony stimulating factor__(M-CSF). Since osteoclasts are in the macrophage/monocyte lineage, M-CSF can exert local (paracrine) effects and trigger local proliferation of osteoclasts. This increase in osteoclasts will promote bone resorption (breaking down of bone and release of its minerals). This will increase calcium levels. 
 
     * Secrete __RANK ligand__ (aka RANKL), a cytokine. This will bind to the RANK receptor on local osteoclasts and their precursors, and stimulate them mature and to resorb bone. This will increase calcium levels. Note: __denosumab__ is a monoclonal antibody that targets  RANK ligand, and is used for the treatment of osteoporosis. 
 

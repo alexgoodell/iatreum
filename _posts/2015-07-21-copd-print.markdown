@@ -7,7 +7,7 @@ categories: print
 author: Alex Goodell
 ---
 
-Where does COPD fit in the mix of respiratory diseases? I’ve made a map of the major pathologies outlined in Robbins and First Aid (obviously these are not all mutually exclusive, or fully complete). 
+Where does COPD fit in the mix of respiratory diseases? I’ve made a map of the major pathologies outlined in Robbins and First Aid (obviously these are not all mutually exclusive, or fully complete):
 
 {% include image.html url="/assets/copd_map.png" description="Map of respiratory disease" number=1 %}
 
@@ -23,7 +23,7 @@ There are four major prototypes of obstructive lung disease: chronic bronchitis,
 
 ##Histology review
 
-Before we jump into the pathologies of these conditions, I think it is worthwhile to review how air gets to the aveoli. Borrowing from Simon’s 4.1.1, there is a long pathway. 
+Before we jump into the pathologies of these conditions, I think it is worthwhile to review how air gets to the aveoli.
 
 ###Conducting zone
 We begin in trachea, which breaks into the bronchus, then lobar bronchus, and finally the segmental bronchus. Note that each of these steps has particular histological findings that allow it to be classified as such. Now take a look at Figure 2 below, and find the segmental bronchus at the top left. This is then broken into the smaller bronchi then into the bronchioles. Bronchioles then break into lobules, which contain terminal bronchioles. From the trachea to the terminal bronchioles is considered the conducting zone, because its job is to conduct air from the mouth downward – it does not exchange any gas, meaning it is considered anatomic dead space.

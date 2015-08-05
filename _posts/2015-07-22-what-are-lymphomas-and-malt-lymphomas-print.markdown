@@ -46,7 +46,7 @@ Let’s review a bit. Lymphoid tissue (primary and secondary) contains lymphoid 
 
 Surrounding the germinal center is a ring of small, dark, tightly-packed B cells which comprise the __mantle zone__. Directly outsize of the mantle zone is the __marginal zone__, which is also comprised of B-cells. Lymphomas can arise from each of these areas, and are thus classified as __follicular__ (germinal center), __mantle zone__, or __marginal zone__ lymphomas. 
 
-Now that we remember a bit about the internal structure of the lymph tissue, let’s remind ourselves a bit about the MALT. As Adnan taught us in his 5.7.1 LO, there are only two primary lymphoid organs: the thymus and the bone marrow. In terms of secondary lymphoid tissue, we have the lymph nodes, the spleen, __mucosal-associated lymphoid tissue (MALT)__ and the bronchus-associated lymphoid tissue (BALT). The MALT is a huge collection of blood cells that monitor and protect our alimentary tract. In fact, it holds 70% of our immune cells! Included in the MALT are our tonsils, Peyer’s patches in the ilium, and our appendix (see my 4.1.1 Lymph histology). 
+Now that we remember a bit about the internal structure of the lymph tissue, let’s remind ourselves a bit about the MALT. As Adnan taught us in his 5.7.1 LO, there are only two primary lymphoid organs: the thymus and the bone marrow. In terms of secondary lymphoid tissue, we have the lymph nodes, the spleen, __mucosal-associated lymphoid tissue (MALT)__ and the bronchus-associated lymphoid tissue (BALT). The MALT is a huge collection of blood cells that monitor and protect our alimentary tract. In fact, it holds 70% of our immune cells! Included in the MALT are our tonsils, Peyer’s patches in the ilium, and our appendix. 
 
 ##Pathogenesis of MALT lymphoma
 
@@ -56,7 +56,7 @@ MALT lymphomas are a form of __primary gastric lymphoma__, meaning that the canc
 
 Although the stomach is the most common site of a MALT lymphoma, the stomach normally doesn’t have a lot of MALT – the famous Peyer’s patches are in the ilium (and, interestingly, are the major histologic difference between the ilium and the other sections of the small intestine). How do MALTomas arise in the stomach then? Well, chronic inflammation of the stomach (gastritis) actually __induces the formation of lymphoid tissue__ around the stomach. I bet you can guess what the major inflammatory agent is: H. pylori. 
 
-MALT lymphomas are wild because they undergo remission with the removal of H. pylori in 55-75% of cases. How is this possible, Alex? Isn’t cancer defined as an uncontrolled growth of malignant cells? Well, it’s interesting.  
+MALT lymphomas are wild because they undergo remission with the removal of H. pylori in 55-75% of cases. How is this possible? Isn’t cancer defined as an uncontrolled growth of malignant cells? Well, it’s interesting.  
 
 In general, remember that immune cells are generally short-lived compared to the other cells in our body. The one time when we want them to have an extended lifespan is during an infection. In order to do that, various cytokines, particularly IL-2, promote maturation and survival. These cytokines are released by damaged cells, through a pathway involving the transcription factor __NF-kB__ (remember, this is what glucocorticoids block). 
 
