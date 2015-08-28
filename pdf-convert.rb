@@ -18,6 +18,9 @@ Dir.foreach('_posts') do |item|
 end
 
 
+
+sleep(5)
+
 Dir.foreach('_posts') do |item|
 	if ( item =~ /(.*)print(.*)/ )
 		puts item
